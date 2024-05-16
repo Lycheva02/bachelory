@@ -1,0 +1,4 @@
+agent_id: 1_2
+trace: BothApps-PeriodicLoad-Machine2
+task: kv
+machine: 2

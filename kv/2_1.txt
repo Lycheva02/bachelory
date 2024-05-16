@@ -1,0 +1,4 @@
+agent_id: 2_1
+trace: SingleApp-FlashcrowdLoad-Machine1
+task: kv
+machine: 1
