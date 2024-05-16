@@ -1,0 +1,2 @@
+# bachelory
+Bachelor's thesis
